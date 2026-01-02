@@ -3,4 +3,5 @@
 @tailwind utilities;
 
 * {
-  box-sizing
+  box-sizing: border-box;
+  padding
